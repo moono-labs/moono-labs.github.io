@@ -1,1 +1,0 @@
-import{J as o}from"./CQrpUmtA.js";function t(){const e=document.getElementById("loader-cont");e&&(e.style.display="flex")}function n(){const e=document.getElementById("loader-cont");e&&o.to(e,{y:"-100%",duration:1,ease:"power2.out",onComplete:()=>{e.style.display="none"}})}function i(){t(),setTimeout(()=>{n()},100)}export{i};
