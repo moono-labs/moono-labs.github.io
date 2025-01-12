@@ -1,1 +1,0 @@
-import{W as e}from"./CwojaRIV.js";const a=e(_=>{_.path==="/"||_.path==="/ru/"||_.path==="/works"||_.path==="/ru/works"?document.body.classList.remove("light"):document.body.classList.add("light")});export{a as default};
